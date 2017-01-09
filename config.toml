@@ -1,0 +1,33 @@
+baseurl             = "https://davidhampgonsalves.github.io/"
+builddrafts         = true
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+author              = "David Hamp-Gonsalves"
+title               = "David Hamp-Gonsalves"
+theme               = "black-and-light"
+
+pygmentscodefences  = true
+pygmentsstyle       = "bw"
+
+pluralizelisttitles = false
+googleAnalytics     = "UA-123-45"
+
+[permalinks]
+blog  = ":slug/"
+
+[params]
+author       = "David Hamp-Gonsalves"
+cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
+dateform     = "January 2006"
+dateformfull = "Mon Jan 2 2006"
+description  = "Don't panic"
+email        = "you@example.space"
+faviconfile  = "img/leaf.ico"
+github       = "//github.com/you"
+highlightjs  = false
+lang         = "en"
+linkedin     = "//linkedin.com/in/you"
+twitter      = "//twitter.com/you"
