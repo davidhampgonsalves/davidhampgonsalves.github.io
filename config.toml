@@ -26,13 +26,9 @@ pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"
 
 [permalinks]
-blog  = ":slug/"
+posts = ":slug/"
 
 [params]
 sitename      = "David Hamp-Gonsalves"
 dateform     = "January 2006"
 dateformfull = "Mon Jan 2 2006"
-email        = "you@example.space"
-github       = "//github.com/davidhampgonsalves"
-linkedin     = "https://www.linkedin.com/in/davidhampgonsalves"
-twitter      = "//twitter.com/you"
