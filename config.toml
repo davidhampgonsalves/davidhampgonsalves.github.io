@@ -9,6 +9,16 @@ author              = "David Hamp-Gonsalves"
 title               = "David Hamp-Gonsalves"
 theme               = "black-and-light"
 
+[[menu.main]]
+    name = "GitHub"
+    url = "//github.com/davidhampgonsalves"
+[[menu.main]]
+    name = "Projects"
+    url = "/Projects"
+[[menu.main]]
+    name = "Resume"
+    url = "/html/resume.html"
+
 pygmentscodefences  = true
 pygmentsstyle       = "bw"
 
@@ -19,15 +29,10 @@ googleAnalytics     = "UA-123-45"
 blog  = ":slug/"
 
 [params]
-author       = "David Hamp-Gonsalves"
-cachebuster  = true # add the current unix timestamp in query string for cache busting css assets
+sitename      = "David Hamp-Gonsalves"
 dateform     = "January 2006"
 dateformfull = "Mon Jan 2 2006"
-description  = "Don't panic"
 email        = "you@example.space"
-faviconfile  = "img/leaf.ico"
-github       = "//github.com/you"
-highlightjs  = false
-lang         = "en"
-linkedin     = "//linkedin.com/in/you"
+github       = "//github.com/davidhampgonsalves"
+linkedin     = "https://www.linkedin.com/in/davidhampgonsalves"
 twitter      = "//twitter.com/you"
