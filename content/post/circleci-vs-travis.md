@@ -3,7 +3,7 @@ title = "CircleCI vs Travis"
 date = "2016-04-15T23:12:01-05:00"
 +++
 
-TLDR: Just use CircleCI.
+__TLDR__: Just use CircleCI.
 
 Having used both products in my last two positions I can say that while I once pined for Travis's(then) superior documentation, that stage has passed and I now enthusiastically choose CircleCI.
 
