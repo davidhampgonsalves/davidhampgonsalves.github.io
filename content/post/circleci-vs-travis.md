@@ -1,6 +1,6 @@
 +++
 title = "CircleCI vs Travis"
-date = "206-04-15T23:12:01-05:00"
+date = "2016-04-15T23:12:01-05:00"
 +++
 
 TLDR: Just use CircleCI.
