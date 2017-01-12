@@ -1,9 +1,9 @@
 +++
-date = "2017-01-11T23:09:36-05:00"
+date = "2016-01-11T23:09:36-05:00"
 title = "Should You Move To San Francisco?"
 +++
 
-TLDR:  Yes.
+__TLDR__:  Yes.
 
 My move to SF is 100% a silicon valley stereotype. I wrote an app(eb), was contacted by some startups and large valley companies and a couple weeks later I was on a plane with a 6 month old and my wife.
 
@@ -19,8 +19,12 @@ It was easy to burn through my moving bonus + salary(double what I made in Toron
 
 The working conditions were far better then any I had experienced prior. I played guitar in the office music room, learned how to play ping pong, found / rebuilt drones all over the place and generally just had a lot of fun. The work was interesting and it was amazing being around brilliant co-workers. You'll also never have to worry about saying something too technical, geeky or nuanced since it will always be received warmly.
 
-The counter to this is that: everything is expensive, you'll spend more time at work, you'll get sick of microbrew IPA's, money will loose all meaning and generally things will feel "unreal".
+## Cons
+
+The counter to this is: everything is expensive, you'll spend more time at work, you'll get sick of microbrew IPA's, money will loose all meaning and generally things will feel "unreal".
 
 You'll feel like you've entered a world that is oddly tailored to you which will only emphasise your feelings of being a muppet. At the same time you'll see the daily negative effects that tech wealth has on the remaining residents which you are now a part of.
+
+## Summary
 
 Retrospectively it was a positive experience. I'm still benefiting from the contacts I made and experience I accrued. The TN visa makes it easy for Canadians to make this move and its in our interest to take advantage of our free trade agreement the politicians worked to put in place.

@@ -1,6 +1,6 @@
 +++
-title = "circleci vs travis"
-date = "2017-01-11T23:12:01-05:00"
+title = "CircleCI vs Travis"
+date = "206-04-15T23:12:01-05:00"
 +++
 
 TLDR: Just use CircleCI.
