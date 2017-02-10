@@ -3,7 +3,7 @@ date = "2017-01-08"
 title = "Hugo Black & Light"
 +++
 
-I converted my blog from [Octopress to Hugo](/octopress-to-hugo/) and also ported over the existing theme.
+I converted my blog from [Octopress to Hugo](/octopress-to-hugo/) and in as part of that process ported over the existing theme. Its available on the [Hugo Themes Site](http://themes.gohugo.io/black-and-light/).
 
 Its called [Black and Light](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) and is high contrast, text oriented, and Javascript-free.
 
