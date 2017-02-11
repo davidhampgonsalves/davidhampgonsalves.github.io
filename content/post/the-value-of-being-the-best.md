@@ -3,7 +3,7 @@ date = "2017-01-19T14:12:19-05:00"
 title = "The Value of Being the Best"
 +++
 
-TLDR: Training data shapes our current iterations of AI and as they get more competitive so will the people who create it.
+_TLDR: Training data shapes our current iterations of AI and as they get more competitive so will the people who create it._
 
 While its easy to use training data from many individuals(driving habits for example) which might average out to be the best overall it will be hard to optomize for specific attributes(gas millage, passenger comfort).
 
