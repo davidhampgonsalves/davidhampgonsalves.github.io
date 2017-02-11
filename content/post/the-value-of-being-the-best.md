@@ -1,6 +1,6 @@
 +++
 date = "2017-01-19T14:12:19-05:00"
-title = "The Value of Being the Best"
+title = "A New Value Add for Being the Best"
 +++
 
 _TLDR: Training data shapes our current iterations of AI and as they get more competitive so will the people who create it._
