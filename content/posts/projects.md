@@ -12,7 +12,7 @@ date = "2010-10-01"
 * [Speed Reading Bookmarklet](/spritz-like-rsvp-reader-bookmarklet/)
 * [Contact Identicons](https\://play.google.com/store/apps/details?id=com.davidhampgonsalves.contactidenticons)
 * [Foxish](/foxish/)
-* [Hour Weather](http\://www.hourweather.com)
+* [Hour Weather](https://hourweather.herokuapp.com/)
 * [Hourly Weather](https\://play.google.com/store/apps/details?id=com.hourlyweather&hl=en)
 * [Notefeeder](/notefeeder/)
 * [Pygmenter](http\://pygmntr.appspot.com/)
