@@ -4,7 +4,7 @@ date = "2010-05-30"
 tags = ["Html 5", "Canvas"]
 +++
 
-![](/images/projects/foxish.png)
+{{< figure src="/images/projects/foxish.png" class="right-justify" >}}
 
 Foxish is a Chrome/Chromium extension that mimics the excellent native handling of RSS and Atom feed reading in Firefox using live bookmarks.
 

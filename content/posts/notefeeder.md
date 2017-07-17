@@ -3,7 +3,7 @@ title = "Notefeeder"
 date = "2010-12-01"
 +++
 
-![](/images/projects/notefeeder.png)
+{{< figure src="/images/projects/notefeeder.png" class="right-justify" >}}
 
 [Note Feeder](https\://github.com/davidhampgonsalves/notefeeder) is a small web application that lets you save urls and notes from your current page.
 
