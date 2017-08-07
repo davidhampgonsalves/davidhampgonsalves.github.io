@@ -3,8 +3,8 @@ date = "2017-07-16T19:51:50-03:00"
 title = "DIY Rollers"
 +++
 
-Made a set of cheap roller to see how much I enjoyed riding them. I made them from 3 inch ABS pipe fitted with drilled end caps that were fitted with lag bolts. The lag bolts fitted into skateboard bearings that were resessed into the 2x4 frame.
+I built a set of rollers to determine how much I enjoyed riding them. They were made from 3 inch ABS pipe, which I finished with drilled end caps, fitted with lag bolts. The bolts fit into ball bearings(scavenged from a skateboard) which were recessed into the 2x4 frame.
 
 {{< vimeo id="225659669">}}
 
-This build was meant as a test of the design but worked well enough that a second version was built. The only issue was that I triangulated the center of the caps with only a tape measure and hand drilled the holes which made the rollers wobble slightly at high speeds.
+This build was intended as a proof-of-concept but worked sufficiently well that a second version was not required. The only deficiency I encountered was from poorly triangulating the cap centers(I used a tape measure and hand drilled the holes) which resulted in vibration at high speeds.
