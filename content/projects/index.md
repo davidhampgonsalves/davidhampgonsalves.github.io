@@ -101,7 +101,7 @@ title = "Projects"
       </p>
 
       <div class=links>
-        Links: <a href="/">Github</a>, <a href="/reverse-engineering-cat-genie-drm/">Blog Post</a>
+        Links: <a href="/">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
       </div>
     </div>
     <div class=images-lg>
@@ -165,7 +165,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Animate time radially around a central point
+        Animate time radially around a central point.
       </div>
       <p>
         These animations contain small slices of every frame from the input animation in each output frame. Each one is offset based on its occurance and rotated around the center.
@@ -311,7 +311,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Official plugin for Beets to send music queries to your media player
+        Official plugin for Beets to send music queries to your media player.
       </div>
       <p>
         <a href=//github.com/beetbox/beets>Beets</a> is a cli music manager and tagger. I wrote a plugin that lets you play the result of a music query in your media player. Since then it has been added to the list of officially supported Beets plugins and is actively maintained by the Beets community.
@@ -335,7 +335,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Scan product barcodes to uncover the ethics of its brand
+        Scan product barcodes to uncover the ethics of its brand.
       </div>
       <p>
         Ethical Barcode exposes the environmental, social and ethical ramifications of the products you buy. It is backed by a large suite of web crawlers that collect and update research from non-profits to provide users with relevant data as they shop.
@@ -361,7 +361,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Start a Strava ride with a single tap
+        Start a Strava ride with a single tap.
       </div>
       <p>
         Small launcher for Strava that uses its NFC intents to start the app and a ride at the same time.
@@ -404,7 +404,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Animated heatmap of reported crimes in Halifax
+        Animated heatmap of reported crimes in Halifax.
       </div>
       <p>
         My entry for the Apps4Halifax Open Data contest which won second place.
@@ -427,7 +427,7 @@ title = "Projects"
   <div class=container>
     <div class=content>
       <div class=headline>
-        Chrome/Chromium extension that enables Firefox like RSS handling
+        Chrome/Chromium extension that enables Firefox like RSS handling.
       </div>
       <div class=links>
         Links: <a href=//github.com/davidhampgonsalves/foxish>GitHub</a>, <a href=//chrome.google.com/webstore/detail/foxish-live-rss/jpgagcapnkccceppgljfpoadahaopjdb>Chrome Web Store</a>, <a href=/foxish/>Blog post</a>

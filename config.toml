@@ -14,10 +14,10 @@ FootnoteReturnLinkContents = "↩"
     url = "//github.com/davidhampgonsalves"
 [[menu.main]]
     name = "Projects"
-    url = "/projects"
+    url = "/projects/"
 [[menu.main]]
-    name = "Resume"
-    url = "/resume.html"
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/davidhampgonsalves/"
 
 pygmentscodefences  = true
 pygmentsstyle       = "bw"
