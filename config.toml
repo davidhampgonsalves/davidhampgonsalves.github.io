@@ -1,5 +1,4 @@
-baseurl             = "https://davidhampgonsalves.github.io/"
-builddrafts         = true
+baseurl             = "https://davidhampgonsalves.com"
 canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
@@ -8,16 +7,17 @@ publishdir          = "public"
 author              = "David Hamp-Gonsalves"
 title               = "David Hamp-Gonsalves"
 theme               = "black-and-light"
+FootnoteReturnLinkContents = "↩"
 
 [[menu.main]]
     name = "GitHub"
     url = "//github.com/davidhampgonsalves"
 [[menu.main]]
     name = "Projects"
-    url = "/Projects"
+    url = "/projects"
 [[menu.main]]
     name = "Resume"
-    url = "/html/resume.html"
+    url = "/resume.html"
 
 pygmentscodefences  = true
 pygmentsstyle       = "bw"
