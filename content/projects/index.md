@@ -105,7 +105,7 @@ title = "Projects"
       </div>
     </div>
     <div class=images-lg>
-      <img src="//github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120/raw/master/catgenie.gif" />
+      <img src="/images/projects/catgenie.gif" />
     </div>
   </div>
 </div>
@@ -371,7 +371,7 @@ title = "Projects"
       </div>
     </div>
     <div class=images>
-      <img src="/images/projects/strava-one-tap.webp" />
+      <img src="/images/projects/strava-one-tap.png" />
     </div>
   </div>
 </div>
@@ -391,7 +391,7 @@ title = "Projects"
       </div>
     </div>
     <div class=images>
-      <img src="/images/projects/contact-identicons.webp" />
+      <img src="/images/projects/contact-identicons.png" />
     </div>
   </div>
 </div>
