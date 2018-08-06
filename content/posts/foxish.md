@@ -23,9 +23,7 @@ It does this by syncing RSS feeds with bookmark folders and refreshing them on a
 
 ## Chrome Limitations
 - Bookmark Folders Close When a bookmark gets modified all bookmark folders will be closed, which is what foxish does during a sync. This is Chromium bug [2469](http\://code.google.com/p/chromium/issues/detail?id=2469).
-
 - Chrome Bookmark Sync Using the bookmark sync will cause multiple items in the feeds since chrome will sync your feed folders as well. You shouldn't use this extension with the core bookmark feature. Some other bookmark sync extensions allow you to get around this by filtering out the feed folders.
-
 - Chrome Bookmark API There are quotas based limitations on the number of bookmark actions(add, remove, move) that extensions can perform in a period of time so this extension tries to do as little as possible. Even so it is possible(I never have though) to hit these limits and the extension will have to wait for an hour before it can continue. In that case you'll be able to see the error in the error log page whcih is accessiable fromt he options page.
 
 ## Feed Back
