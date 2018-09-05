@@ -40,3 +40,5 @@ After the beeping stopped I realized that there was still more work to be done a
 If you want to perform similar modifications as these check out the [git repo](//github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120) and it will guide you through the process.
 
 Another alternative is to run a opensource firmware also created by the author of the CartridgeGenius called [CatGenius](https://github.com/CatGenius/catgenius/) but if you choose this route know that you can't revert back to the original firmware.
+
+*Press:* [Hackaday](https://hackaday.com/2018/09/04/doing-logic-analysis-to-get-around-the-catgenies-drm/), [Hacker News](https://news.ycombinator.com/item?id=17858218) and the [Unnamed Reverse Engineering Podcast](https://reverseengineering.libsyn.com/015-updates).
