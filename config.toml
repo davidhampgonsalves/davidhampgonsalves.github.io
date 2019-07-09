@@ -16,6 +16,9 @@ FootnoteReturnLinkContents = "↩"
     name = "Projects"
     url = "/projects/"
 [[menu.main]]
+    name = "Instagram"
+    url = "https://instagram.com/davidhampgonsalves/"
+[[menu.main]]
     name = "Linkedin"
     url = "https://www.linkedin.com/in/davidhampgonsalves/"
 

@@ -88,7 +88,55 @@ title = "Projects"
 
 <div class=project>
   <h2 class=header>
-    <span>CatGenie 120 Cartridge Reader Emulator </span>
+    <span>ESP8622 based Scheduling IR Thermostat</span>
+    <span class=date>April 2019</span>
+  </h2>
+  <div class=container>
+    <div class=content>
+      <div class=headline>
+        Heatpump thermostat scheduling for under $10.
+      </div>
+      <p>
+        Most heatpumps have little to no support for scheduling temperature changes. This project uses an ESP to pull your schedule from github and apply it by sending commands to the heatpump via IR (just like the remote).
+      </p>
+
+      <div class=links>
+        Links: <a href="https://github.com/davidhampgonsalves/IR-Schedule-Thermostat">Github</a>, <a href="/esp-based-scheduling-thermostat/">Blog Post</a>
+      </div>
+    </div>
+    <div class=images-lg>
+      <img src="/images/projects/esp-thermostat.jpg" />
+    </div>
+  </div>
+</div>
+
+<div class=project>
+  <h2 class=header>
+    <span>Life Dashboard</span>
+    <span class=date>February 2019</span>
+  </h2>
+  <div class=container>
+    <div class=content>
+      <div class=headline>
+        A HUD for daily life, powered by a hacked kindle 4.
+      </div>
+      <p>
+        Second hand Kindles are a cheap source of large(ish) e-ink displays. This project uses <a href="https://www.rust-lang.org/">Rust</a> cross compiled the Kindles ARM-7 archetecture to download and present information pertinant to my daily life such as: calendar events, daily spending, surf forecast, etc.
+      </p>
+
+      <div class=links>
+        Links: <a href="https://github.com/davidhampgonsalves/life-dashboard">Github</a>, <a href="/life-dashboard/">Blog Post</a>
+      </div>
+    </div>
+    <div class=images-lg>
+      <img src="/images/projects/life-dashboard.jpg" />
+    </div>
+  </div>
+</div>
+
+<div class=project>
+  <h2 class=header>
+    <span>CatGenie 120 Cartridge Reader Emulator</span>
     <span class=date>July 2018</span>
   </h2>
   <div class=container>
@@ -101,7 +149,7 @@ title = "Projects"
       </p>
 
       <div class=links>
-        Links: <a href="/">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
+        Links: <a href="https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
       </div>
     </div>
     <div class=images-lg>

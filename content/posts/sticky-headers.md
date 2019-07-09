@@ -1,7 +1,7 @@
 +++
 title = "HTML Sticky Headers"
 date = "2012-01-22"
-tags = ["HTML", "Javascript"]
+tags = ["Javascript"]
 +++
 
 Sticky headers are heading elements that stick to the top of the window as the user scrolls down the page. This is useful since you can use them to retain the contextual information of the section regardless of the position.
