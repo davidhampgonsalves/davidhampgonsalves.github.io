@@ -7,7 +7,7 @@ Second hand Kindles are waiting in drawers for someone to repurpose them into so
 
 Check out the project [repository](https://github.com/davidhampgonsalves/life-dashboard) for more details.
 
-<img src="/images/life-dashboard.jpg" />
+<img src="/images/life-dashboard-01.jpg" />
 
 In my case I created an information panel summarizing my day such as my calendar, surf and weather forecast, garbage schedule, school closures, etc. My favorite part is that any extra space is filled with a random Pokémon sprite which my kids(not me) like to come check in on.
 
@@ -24,3 +24,8 @@ The [mobileread forum](https://www.mobileread.com/forums/) is the place for mobi
 
 My Kindle (KT 4) does not provide access to the RTC, but if I ever find a Kindle Paper White I would be able to sleep the device and run it unplugged for months between changes.
 
+<img src="/images/life-dashboard-02.jpg" />
+
+<img src="/images/life-dashboard-03.jpg" />
+
+<img src="/images/life-dashboard-04.jpg" />

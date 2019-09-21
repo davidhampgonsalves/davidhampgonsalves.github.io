@@ -8,6 +8,7 @@ author              = "David Hamp-Gonsalves"
 title               = "David Hamp-Gonsalves"
 theme               = "black-and-light"
 FootnoteReturnLinkContents = "↩"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
     name = "GitHub"
