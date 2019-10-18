@@ -27,7 +27,6 @@ pygmentscodefences  = true
 pygmentsstyle       = "bw"
 
 pluralizelisttitles = false
-googleAnalytics     = "UA-123-45"
 
 [permalinks]
 posts = ":slug/"
