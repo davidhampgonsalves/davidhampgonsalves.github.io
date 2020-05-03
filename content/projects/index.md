@@ -99,7 +99,6 @@ title = "Projects"
       <p>
         Most heatpumps have little to no support for scheduling temperature changes. This project uses an ESP to pull your schedule from github and apply it by sending commands to the heatpump via IR (just like the remote).
       </p>
-
       <div class=links>
         Links: <a href="https://github.com/davidhampgonsalves/IR-Schedule-Thermostat">Github</a>, <a href="/esp-based-scheduling-thermostat/">Blog Post</a>
       </div>
@@ -123,7 +122,6 @@ title = "Projects"
       <p>
         Second hand Kindles are a cheap source of large(ish) e-ink displays. This project uses <a href="https://www.rust-lang.org/">Rust</a> cross compiled the Kindles ARM-7 archetecture to download and present information pertinant to my daily life such as: calendar events, daily spending, surf forecast, etc.
       </p>
-
       <div class=links>
         Links: <a href="https://github.com/davidhampgonsalves/life-dashboard">Github</a>, <a href="/life-dashboard/">Blog Post</a>
       </div>
@@ -147,7 +145,6 @@ title = "Projects"
       <p>
         The CatGenie is an self cleaning cat litter box. It locks users into using its own cleaning solution via RFID tags embeded in the carterages. I reverse engeneered the communication method and wrote code to emulate it using an Arduino.
       </p>
-
       <div class=links>
         Links: <a href="https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120">Github</a>, <a href="/reverse-engineering-cat-genie-120-drm/">Blog Post</a>
       </div>
@@ -172,11 +169,9 @@ title = "Projects"
       <p>
         A grow clock is a simple visual indicator of day and night. The goal is to convince them to sleep till a humane hour.
       </p>
-
       <p>
         My version was made to be recyclable, since these devices are only useful for the short time before children can read a traditional clock.
       </p>
-
       <div class=links>
         Links: <a href="//github.com/davidhampgonsalves/grow-clock">Github</a>, <a href="/arduino-grow-clock/">Blog Post</a>
       </div>
@@ -221,7 +216,6 @@ title = "Projects"
       <p>
         It produces interesting results when used on stationary timelapses and is a fun way to visualize the passing of time.
       </p>
-
       <div class=links>
         Links: <a href="//github.com/davidhampgonsalves/Gif-Twist">Github</a>, <a href="/gif-twist/">Blog Post</a>
       </div>
@@ -245,7 +239,6 @@ title = "Projects"
       <p>
         <a href="//aws.amazon.com/lambda/">AWS Lambda</a> hosted webook glue to connect services together with minimal overhead using <a href=//jmespath.org/>JMESPath</a> transformations and filters.
       </p>
-
       <div class=links>
         Links: <a href=//github.com/davidhampgonsalves/webhook-liaison>Github</a>, <a href="/webhook-liaison/">Blog Post</a>
       </div>
@@ -267,7 +260,6 @@ title = "Projects"
       <p>
         I ported my blog from Octopress to Hugo + GitHub pages and brought the theme I originally created with me. Its since been added to the official <a href=//themes.gohugo.io/black-and-light/>Hugo theme repository<a/>.
       </p>
-
       <div class=links>
         Links: <a href="//github.com/davidhampgonsalves/hugo-black-and-light-theme">Github</a>, <a href="/hugo-black-and-light-theme/">Blog Post</a>
       </div>

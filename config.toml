@@ -35,3 +35,6 @@ posts = ":slug/"
 sitename      = "David Hamp-Gonsalves"
 dateform     = "January 2006"
 dateformfull = "Mon Jan 2 2006"
+
+[markup.goldmark.renderer]
+unsafe= true
