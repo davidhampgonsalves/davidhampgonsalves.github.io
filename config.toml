@@ -19,9 +19,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Instagram"
     url = "https://instagram.com/davidhampgonsalves/"
-[[menu.main]]
-    name = "Linkedin"
-    url = "https://www.linkedin.com/in/davidhampgonsalves/"
 
 pygmentscodefences  = true
 pygmentsstyle       = "bw"
