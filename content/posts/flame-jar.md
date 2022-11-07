@@ -7,7 +7,6 @@ date = "2022-06-15"
   <source src="/media/flame-jar.webm" type="video/webm" />
 </video>
 
-
 I've learned a lot from watching [BigClive](https://www.youtube.com/c/Bigclive) and this project was the combination of three of those learnings. 
 
 1. Free lithium cells and USB charge circuits litter the streets in most cities in the form of disposiable e-cigarettes. 
