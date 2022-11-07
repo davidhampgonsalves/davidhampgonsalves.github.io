@@ -7,7 +7,7 @@ date = "2022-03-15"
   <source src="/media/midtbot.webm" type="video/webm" />
 </video>
 
-I build the wonderful [MidTBot](https://github.com/bdring/midTbot_esp32) and since then have been doing a lot of pen plotting.
+I build the wonderful [MidTBot](https://github.com/bdring/midTbot_esp32) and have been enjoying creating pen plots.
 
 My version abuses the tiny bot by extending the linear rods to give me a drawing size of 360x240 mm. 
 
