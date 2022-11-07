@@ -1,0 +1,176 @@
+
+<!-- saved from url=(0052)http://davidhampgonsalves.appspot.com/woodstove.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+	<style>
+		canvas
+		{
+			position:absolute;
+			top:200px;
+			margin-left:-420px;
+			left:50%;
+			width:840px;
+			height:500px;
+			display:block;
+			background:white;
+			z-index: 2;
+
+		}
+		
+		#fire-place
+		{
+			width:1400px;
+			position:absolute;
+      top: -10px;
+			margin-left:-750px;
+			left:50%;
+			z-index: 3;
+		}
+
+    #firebox
+    {
+      background:black;
+      width:1000px;
+      height:500px;
+      position:absolute;
+      top:180px;
+      left:50%;
+      margin-left:-500px;
+      z-index:1;
+    }
+		
+		#wood
+		{
+			z-index:3;
+			position:absolute;
+			top:450px;
+			width:750px;
+			height:200px;
+			margin-left: -370px;
+			left:50%;
+      opacity:0.5;
+		}
+	</style>
+</head>
+<body>
+  <div id="firebox"> </div>
+	<canvas id="canvas">
+		<p>Your browser doesn't support canvas.</p>
+	</canvas>
+	<img src="/images/yulelog/woodstove.png" id="fire-place">
+	<img src="/images/yulelog/wood.png" id="wood">
+
+	<script>
+  
+  var myAudio = new Audio('/media/fire.ogg');
+  myAudio.loop = true;
+  myAudio.addEventListener('ended', function() {
+      this.currentTime = 0;
+      this.play();
+  }, false);
+  myAudio.play();
+
+
+	var drawingCanvas = document.getElementById('canvas');
+
+	if(drawingCanvas.getContext) {
+		var context = drawingCanvas.getContext('2d');
+		var palette = buildPalette();
+		var fire = [];
+		
+		var scale = 2;
+		var width = Math.floor(400 / scale);
+		var height = Math.floor(150 / scale);
+		var heightLimit = height - 1;
+		var intensity = 1.6;
+		
+		buildPalette();
+		buildEmptyFireData();
+		
+		setInterval(draw, 40);
+	}
+	
+	function buildPalette()
+	{
+		var palette = [];
+		var limit = 64;
+		var multiple = 256 / limit;
+		
+		for(var i=0 ; i < limit ; i++)
+		{
+			//reds
+			palette[i] = createCSSColor(i * multiple, 0, 0);
+			//oranges
+			palette[i + limit] = createCSSColor(255, i * multiple, 0);
+			//yellows
+			palette[i + limit * 2] = createCSSColor(255, 255, i * multiple);
+			//white
+			palette[i + limit * 3] = createCSSColor(255, 255, 255);
+		}
+		return palette;
+	}
+	
+	function buildEmptyFireData()
+	{
+		for(var y=0 ; y < height ; y++)
+		{
+			fire[y] = [];
+			for(x=0 ; x < width ; x++)
+				fire[y][x] = 0;
+		}
+	}
+	
+	function createCSSColor(r, g, b)
+	{
+		return "rgb(" + r + "," + g + "," + b + ")";
+	}
+	
+	function draw()
+	{
+		addRandomLine();
+		
+		var x, rowData, left, right, bellow, average;
+		for(var y=0 ; y < heightLimit ; y++)
+			for(x=0 ; x < width ; x++)
+			{
+				//wrap the sides
+				rowData = fire[y];
+				left = (x == 0) ? rowData[width-1] : rowData[x-1];
+				right = (x == width -1) ? rowData[0] : rowData[x+1];
+				bellow = fire[y+1][x];
+				
+				//calculate the average color values, with an additional weighting 
+				//on the color bellow
+				average = (left + right + (bellow * 5)) / 7;
+				
+				//reduce the luminense of the final color
+				if(average <= intensity)
+					average = 0;
+				else
+					average = Math.ceil(average - intensity);
+				
+				//update our fire map
+				fire[y][x] = average;
+
+				//draw the point
+				context.fillStyle = palette[average];
+				context.fillRect (x * scale, y * scale, scale, scale);
+			}
+	}
+	
+	function getRandomColorId()
+	{
+		return Math.floor(Math.random() * (255) + 0)
+	}
+	
+	function addRandomLine()
+	{
+		var rowData = fire[heightLimit];
+		for(var x=0 ; x < width ; x++)
+			rowData[x] = getRandomColorId();
+	}
+	
+	</script>
+
+
+
+</body></html>
