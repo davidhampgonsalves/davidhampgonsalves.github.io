@@ -2,13 +2,14 @@ baseurl             = "https://davidhampgonsalves.com"
 canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
-layoutdir           = "layouts"
 publishdir          = "public"
 author              = "David Hamp-Gonsalves"
 title               = "David Hamp-Gonsalves"
-theme               = "black-and-light"
 FootnoteReturnLinkContents = "↩"
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[[module.imports]]
+  path = "github.com/davidhampgonsalves/hugo-black-and-light-theme"
 
 [[menu.main]]
     name = "GitHub"
@@ -22,6 +23,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 pygmentscodefences  = true
 pygmentsstyle       = "bw"
+
 
 pluralizelisttitles = false
 

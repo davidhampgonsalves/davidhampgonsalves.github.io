@@ -1,7 +1,7 @@
 +++
 title = "Solar Penduluam"
 date = "2022-05-01"
-draft: true
+draft = true
 +++
 
 TODO:

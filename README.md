@@ -6,4 +6,8 @@ hugo new posts/new-post.md
 ```
 
 ## Setup
-Symlink black-and-light theme `ln -s ~r/hugo-black-and-light-theme themes/black-and-light`.
+Install theme via modules and start server.
+```
+hugo mod get -u
+hugo server
+```
