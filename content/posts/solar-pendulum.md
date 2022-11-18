@@ -3,7 +3,7 @@ title = "Solar Pendulum"
 date = "2022-09-15"
 +++
 
-<video autoplay loop muted>
+<video autoplay loop muted style="width: 100%">
   <source src="/media/solar-pendulum-1.webm" type="video/webm" />
 </video>
 
