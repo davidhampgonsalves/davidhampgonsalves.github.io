@@ -40,3 +40,4 @@ All my music wouldn't fit on the devices internal memory and not having a spare 
 
 With that I have a faily powerful and reliable music server(based on a few weeks of usage). I'm keeping an eye out for any devices with good PostmarketOS support to try that again.
 
+The setup guide for this can be found on [github](https://github.com/davidhampgonsalves/music-server).
