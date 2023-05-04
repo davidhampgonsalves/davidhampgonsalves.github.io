@@ -41,3 +41,6 @@ All my music wouldn't fit on the devices internal memory and not having a spare 
 With that I have a faily powerful and reliable music server(based on a few weeks of usage). I'm keeping an eye out for any devices with good PostmarketOS support to try that again.
 
 The setup guide for this can be found on [github](https://github.com/davidhampgonsalves/music-server).
+
+
+This post was written up on [Hackaday](https://hackaday.com/2023/04/27/using-an-old-smartphone-in-place-of-a-raspberry-pi/) and the discussion about it was quite informative.
