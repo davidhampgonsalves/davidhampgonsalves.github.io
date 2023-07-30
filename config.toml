@@ -15,9 +15,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "GitHub"
     url = "//github.com/davidhampgonsalves"
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-[[menu.main]]
     name = "Instagram"
     url = "https://instagram.com/davidhampgonsalves/"
 
