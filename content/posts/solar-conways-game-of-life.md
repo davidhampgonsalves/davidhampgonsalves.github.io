@@ -54,9 +54,13 @@ I also used the [CalEPD](https://github.com/martinberlin/CalEPD) libary to drive
 Code can be found in my [Github](https://github.com/davidhampgonsalves/solar-game-of-life).
 
 
-### Armegedons
+### Armageddon
 
 In CGoL with low cell counts you can frequently run into looping situations. Typically you would check for those by keeping around some number of previous states and comparing them but I don't have the memory to do that between deep sleeps so I just start from a random environment state every 100 frame which also keeps the display pretty full and interesting.
 
 <img src="/images/solar-cgol/2.jpg" style="width: 100%"> 
 Its not pretty behind the scenes but I'm still proud my bare wires soldered to the castellated edges worked.
+
+
+### Coverage
+You can read more about this project on [adafruit](https://blog.adafruit.com/2023/08/01/conways-game-of-life-via-eink-display-and-solar-power-esp32-solar-gaming/) and [Hackaday](https://hackaday.com/2023/07/28/solar-powered-game-of-life-follows-the-suns-rhythm/).

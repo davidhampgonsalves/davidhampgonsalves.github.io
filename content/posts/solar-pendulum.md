@@ -1,6 +1,7 @@
 +++
 title = "Solar Pendulum"
 date = "2022-09-15"
+draft = true
 +++
 
 <video autoplay loop muted style="width: 100%">

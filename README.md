@@ -13,3 +13,6 @@ Install theme via modules and start server.
 hugo mod get -u
 hugo server
 ```
+
+## Lint Posts
+`vale content/posts/post-name.md`
