@@ -1,0 +1,55 @@
+<style>
+  .project {
+    border-bottom: 1px solid #ccc;
+    padding: 2em 0;
+  }
+
+  .project h2 {
+    font-size: 1.6em;
+    text-transform: capitalize;
+  }
+
+  .project .header {
+    display: flex;
+    align-items: baseline;
+    gap: 1em;
+  }
+
+  #content .header .date {
+    margin-left: auto;
+  }
+
+  #content .header .project a.stars {
+    text-decoration: none;
+  }
+
+  .container {
+    display: flex;
+    align-items: center; // for image scaling
+  }
+
+  .content {
+    flex-grow: 1;
+    margin-right: 1em;
+  }
+
+  .project ul li:before {
+    content: "";
+  }
+
+  .project ul {
+    display: flex;
+    font-size: smaller;
+    margin: 1em 0 2em 0;
+  }
+
+  .project li, .header .stars {
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 0 7px;
+  }
+
+  .project img {
+    width: 400px;
+  }
+</style>
