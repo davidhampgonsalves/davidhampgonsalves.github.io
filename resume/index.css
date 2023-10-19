@@ -39,20 +39,28 @@ a {
 }
 
 @media print {
+  body {
+    height: var(--page-height);
+    margin: 0 !important;
+  }
+
   a {
     text-decoration: none;
+  }
+
+  main {
+    padding: 0.25in 0.25in 0 0.25in;
   }
 }
 
 body {
+  display: flex;
+  margin: 3em auto;
   width: var(--page-width);
-  height: var(--page-height);
-  margin: 0 auto;
   font-family: "Open Sans", sans-serif;
   font-weight: 300;
   line-height: 1.3;
   color: #444;
-  /* hyphens: auto; */
   background: #fff;
 }
 
@@ -68,17 +76,14 @@ li {
 }
 
 #main {
-  float: left;
   width: var(--main-width);
-  padding: 0.25in 0.25in 0 0.25in;
+  padding: 0.25in;
   font-size: 7pt;
 }
 
 #sidebar {
-  float: right;
-  position: relative; /* for disclaimer */
   width: var(--sidebar-width);
-  height: 100%;
+  flex-grow: 0 1;
   padding: 0.6in var(--sidebar-horizontal-padding);
   background-color: #f2f2f2;
   font-size: 8.5pt;
