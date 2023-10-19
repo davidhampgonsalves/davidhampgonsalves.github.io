@@ -92,7 +92,7 @@ for (const repo of repos) {
           .join(" ")}
       </ul>
       <div class=links>
-        Links: 
+        Links:
           <a href="${repo.html_url}">Github</a>${
     repo.homepage ? `, <a href="${repo.homepage}">Project Info</a>` : ""
   }

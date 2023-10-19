@@ -47,9 +47,31 @@
     border: 1px solid;
     border-radius: 8px;
     padding: 0 7px;
+    text-wrap: nowrap;
   }
 
   .project img {
     width: 400px;
+  }
+
+  @media (max-width: 700px) {
+    .header {
+      flex-direction: column;
+    }
+
+    .header .date {
+      margin-top: -2.3em;
+    }
+
+    .container {
+      flex-direction: column-reverse;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .project ul {
+      justify-content: center;
+    }
   }
 </style>

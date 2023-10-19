@@ -51,10 +51,32 @@ title = "Projects"
     border: 1px solid;
     border-radius: 8px;
     padding: 0 7px;
+    text-wrap: nowrap;
   }
 
   .project img {
     width: 400px;
+  }
+
+  @media (max-width: 700px) {
+    .header {
+      flex-direction: column;
+    }
+
+    .header .date {
+      margin-top: -2.3em;
+    }
+
+    .container {
+      flex-direction: column-reverse;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .project ul {
+      justify-content: center;
+    }
   }
 </style>
   
@@ -164,7 +186,7 @@ title = "Projects"
           <a href="https://github.com/davidhampgonsalves/Gif-Twist">Github</a>, <a href="https://davidhampgonsalves.com/gif-twist/">Project Info</a>
       </div>
     </div>
-    <img src="/images/projects/gif-twist.gif" />
+    <img src="/images/projects/gif-twist.apng.gif" />
   </div>
 </div>
 
@@ -318,7 +340,7 @@ title = "Projects"
           <a href="https://github.com/davidhampgonsalves/grow-clock">Github</a>, <a href="https://davidhampgonsalves.com/arduino-grow-clock/">Project Info</a>
       </div>
     </div>
-    <img src="/images/projects/grow-clock.gif" />
+    <img src="/images/projects/grow-clock.apng.png" />
   </div>
 </div>
 
@@ -589,7 +611,7 @@ title = "Projects"
 <div class=project>
   <div class=header>
     <h2>Live RSS Bookmarks</h2>
-    <a class=stars href=https://api.github.com/repos/davidhampgonsalves/Live-RSS-Bookmarks/stargazers>★ 38</a><span class=date>December 2010</span>
+    <a class=stars href=https://api.github.com/repos/davidhampgonsalves/Live-RSS-Bookmarks/stargazers>★ 37</a><span class=date>December 2010</span>
   </div>
   <div class=container>
     <div class=content>
