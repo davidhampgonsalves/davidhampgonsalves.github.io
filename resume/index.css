@@ -100,7 +100,7 @@ h2 {
 
 #title {
   position: relative;
-  left: 0.55in;
+  left: 0.1in;
   margin-bottom: 0.3in;
   line-height: 1.2;
 }
@@ -173,6 +173,10 @@ h2 {
 
 #main h2 > .fa-folder-open {
   top: 1.5pt;
+}
+
+.bio {
+  margin-left: 0.1in;
 }
 
 /**** individual row blocks (date - decorator - details) ****/
@@ -321,7 +325,7 @@ h2 {
 
 #main ul {
   padding-left: 0.07in;
-  margin: 0.18in 0 0.06in 
+  margin: 0.18in 0 0.06in;
 }
 
 #main li {
