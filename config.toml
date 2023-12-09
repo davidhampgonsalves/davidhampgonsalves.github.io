@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "/projects"
 [[menu.main]]
     name = "Instagram"
-    url = "https://instagram.com/davidhampgonsalves/"
+    url = "https://instagram.com/davidhg.art/"
 [[menu.main]]
     name = "Resume"
     url = "/resume"

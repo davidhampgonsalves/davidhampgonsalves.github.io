@@ -4,6 +4,10 @@ github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-7
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20200613131832-799d357fc0ce/go.mod h1:0a/oQRj3jcQZPQpCBmBuCGl0AwuexHeX8mKKWw4zb1A=
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20221107102623-e75ab9e72a65 h1:yn4nHUioXUnZhGrqM2hcnlujcxyfxr72sDuYZgKbStU=
 github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20221107102623-e75ab9e72a65/go.mod h1:J1ng1xShIPXhMmDnDQU/km2+bFm9QKul9ubdqqhteLU=
+github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20231209011252-f99fcefa3876 h1:7HaN76J19YjS0M7Iv00YlINgHqYwvjn/YEPKJi8j2EQ=
+github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20231209011252-f99fcefa3876/go.mod h1:J1ng1xShIPXhMmDnDQU/km2+bFm9QKul9ubdqqhteLU=
+github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20231209011516-e024de785b91 h1:YPFTL1HFTiB2O63KTC+ZXbHinzuLUAnCF0bcAaySsTI=
+github.com/davidhampgonsalves/hugo-black-and-light-theme v0.0.0-20231209011516-e024de785b91/go.mod h1:J1ng1xShIPXhMmDnDQU/km2+bFm9QKul9ubdqqhteLU=
 github.com/gohugoio/hugo-mod-jslibs-dist/alpinejs/v3 v3.21000.20200/go.mod h1:WWQxcmPs5Xy3xDgi29ipkmZT6NKVb3bsqyCDTY3eYYY=
 github.com/olivernn/lunr.js v2.3.9+incompatible/go.mod h1:yEkQ1DUSMtNsn8n2CqvQXZd0ErWPEG8g9QRmblR+KS8=
 github.com/slatedocs/slate v2.9.2+incompatible/go.mod h1:n698aXLkExWIlF7prJey0Kq6wlKIKvj/stVb5oouZDM=
