@@ -40,6 +40,6 @@ You can check out my [repo](https://github.com/davidhampgonsalves/Neon-Animated-
   <source src="/media/NAE/NAE-02.webm" type="video/webm" />
 </video>
 
-I really think is is a could technique and I would love to see something like this lighting up a storefront — I would even settle for AliExpress knockoffs cluttering up my component listings.
+I really think this is a cool technique and I would love to see something like this lighting up a storefront, or even some AliExpress knockoffs.
 
 You can watch the full video [complete with glorious Tron music here.](https://www.instagram.com/p/DWwfCc0kbcE/)
