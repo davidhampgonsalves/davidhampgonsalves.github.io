@@ -6,7 +6,7 @@
  width: 200px;
  float: right;
  }
- 
+
  .giphy img {
  width: 90px;
  display: inline-block;
@@ -15,8 +15,13 @@
 &lt;video autoplay loop muted style="margin: 0em 0 1em 2em; width: 225px;"&gt;
  &lt;source src="https://davidhampgonsalves.com/media/vector-scope/vs-01.mp4" type="video/webm" /&gt;
 &lt;/video&gt;
-I was gifted a Sencore SC62 oscilloscope from that mid 80's. It had spent a good chunk of its 40+ year life in a barn. This beautiful device along with many similiar models are being discarded since modern scopes have become so cheap and capable. To avoid that fate I wanted to repurpose it into something that would allow it to live indoors once again. 
-&lt;p&gt;As part of my &lt;a href="https://davidhampgonsalves.com/midtbot-pen-plotter"&gt;plotter&lt;/a&gt; &lt;a href="https://github.com/davidhampgonsalves/Generative-Tree-Rings"&gt;work&lt;/a&gt; I have been playing around with vectorizing all sort of things and decided to build a vector based pipeline so that I could convert SVG files(one layer per frame) into animations, which could then be shown on the Sencore&amp;rsquo;s CRT.&lt;/p&gt;</description></item><item><title>Neon Animated Eye</title><link>https://davidhampgonsalves.com/neon-animated-eye/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://davidhampgonsalves.com/neon-animated-eye/</guid><description>&lt;style&gt;
+I was gifted a Sencore SC62 oscilloscope from the mid-80s. It had spent a good chunk of its 40+ year life
+in a barn. This beautiful device along with many similar models are being discarded since modern scopes
+have become so cheap and capable. To avoid that fate I wanted to repurpose it into something that would
+allow it to live indoors once again.
+&lt;p&gt;Most oscilloscopes have an XY mode which lets you drive the beam position directly with two voltage inputs
+— one for horizontal, one for vertical. This makes them natural vector displays, capable of drawing
+anything you can express as a series of coordinates.&lt;/p&gt;</description></item><item><title>Neon Animated Eye</title><link>https://davidhampgonsalves.com/neon-animated-eye/</link><pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate><guid>https://davidhampgonsalves.com/neon-animated-eye/</guid><description>&lt;style&gt;
  h2 { clear: both }
 
  video {
