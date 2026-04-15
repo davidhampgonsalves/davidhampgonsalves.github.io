@@ -43,3 +43,5 @@ You can check out my [repo](https://github.com/davidhampgonsalves/Neon-Animated-
 I really think this is a cool technique and I would love to see something like this lighting up a storefront, or even some AliExpress knockoffs.
 
 You can watch the full video [complete with glorious Tron music here.](https://www.instagram.com/p/DWwfCc0kbcE/)
+
+This project was featured on [hackaday](https://hackaday.com/2026/04/08/bending-faux-neon-leds-make-for-animations-glass-tubes-cant-match/).
